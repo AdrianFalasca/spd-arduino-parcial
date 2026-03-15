@@ -4,6 +4,8 @@
 ### PRIMERA PARTE.
 #### Contador de 0 a 99 con Display 7 Segmentos y Multiplexación
 
+### Integrante: 
+* **Adrián Falasca.**
 
 <p>
 <img width="600px" src="https://github.com/AdrianFalasca/Parcial-Domiciliario/blob/main/esquemas/Esquema1.jpg">
@@ -27,6 +29,8 @@
 ### SEGUNDA PARTE. 
 ####  Modificación por un interruptor deslizante y números primos. Incorporación de un motor de aficionado y un sensor de temperatura.
 
+### Integrante: 
+* **Adrián Falasca.**
 
 <p>
 <img width="600px" src="https://github.com/AdrianFalasca/Parcial-Domiciliario/blob/main/esquemas/Esquema2.jpg">
