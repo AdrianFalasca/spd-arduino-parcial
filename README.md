@@ -1,12 +1,4 @@
-# PARCIAL DOMICILIARIO. SDP. ARDUINO.
-
-
-### Integrantes: 
-* **Adrián Falasca.**
-* **Eduardo Ferrara.**
-
-
-------------
+# PARCIAL DOMICILIARIO. SPD. ARDUINO.
 
 
 ### PRIMERA PARTE.
